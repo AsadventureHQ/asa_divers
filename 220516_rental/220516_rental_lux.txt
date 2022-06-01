@@ -1,3 +1,10 @@
+Regardez notre lettre d'information dans toute sa splendeur via votre navigateur web :
+<%@ include view='rc_be_asadventure_personalization_mirror_page' %>
+
+++++++++++++++
+A.S.Adventure
+++++++++++++++
+
 ——————————————
 À louer : votre aventure en plein air
 ——————————————
@@ -6,3 +13,5 @@ On loue une large gamme d'équipements de camping et de trekking, de sacs à vé
 
 [ + ] Découvrez notre offre de location :
 https://www.asadventure.lu/fr/asa/location.html
+
+<%@ include view='rc_be_marketing_footernew_lux' %>

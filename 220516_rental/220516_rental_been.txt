@@ -1,3 +1,10 @@
+View in browser:
+<%@ include view='rc_be_asadventure_personalization_mirror_page' %>
+
+++++++++++++++
+A.S.Adventure
+++++++++++++++
+
 ——————————————
 For rent: your outdoor adventure
 ——————————————
@@ -6,3 +13,5 @@ We rent out a wide range of camping and trekking equipment, bike-packing bags an
 
 [ + ] Discover our rental offer:
 https://www.asadventure.com/en/asa/rental.html
+
+<%@ include view='rc_be_marketing_footernew_been' %>
