@@ -1,0 +1,48 @@
+Is onze nieuwsbrief niet goed leesbaar? Bekijk hier de online versie :
+<%@ include view='rc_be_asadventure_personalization_mirror_page' %>
+
+++++++++++++++
+A.S.Adventure
+++++++++++++++
+
+++++++++++++++ Wandelen ++++++++++++++
+——————————————
+Laat je adviseren
+——————————————
+
+Op zoek naar het perfecte paar wandelschoenen? Onze productspecialisten geven je graag uitgebreid advies.
+
+[ + ] Maak je afspraak:
+https://www.asadventure.com/nl/personal-shopping.html
+
+++++++++++++++ Fashion ++++++++++++++
+——————————————
+Laat je adviseren
+——————————————
+
+Op zoek naar een nieuwe fashionoutfit? Onze modeconsulenten staan voor je klaar en kiezen op basis van jouw voorkeuren de juiste silhouetten uit.
+
+[ + ] Maak je afspraak:
+https://www.asadventure.com/nl/personal-shopping.html
+
+++++++++++++++ Outdoor ++++++++++++++
+——————————————
+Laat je adviseren
+——————————————
+
+De beste buitenavonturen, die beleef je met de beste uitrusting. Maar wat is het beste voor jou? Onze productspecialisten geven je graag uitgebreid advies.
+
+[ + ] Maak je afspraak:
+https://www.asadventure.com/nl/personal-shopping.html
+
+++++++++++++++ Algemeen ++++++++++++++
+——————————————
+Laat je adviseren
+——————————————
+
+Van de zoektocht naar het juiste cadeautje tot de ideale wandelschoenen: ons team blijft je graag productadvies geven.
+
+[ + ] Maak je afspraak:
+https://www.asadventure.com/nl/personal-shopping.html
+
+<%@ include view='rc_be_marketing_footernew_benl' %>
