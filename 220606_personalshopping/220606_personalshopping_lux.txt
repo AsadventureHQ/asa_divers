@@ -1,0 +1,48 @@
+Regardez notre lettre d'information dans toute sa splendeur via votre navigateur web :
+<%@ include view='rc_be_asadventure_personalization_mirror_page' %>
+
+++++++++++++++
+A.S.Adventure
+++++++++++++++
+
+++++++++++++++ Wandelen ++++++++++++++
+——————————————
+Obtenir un conseil
+——————————————
+
+Vous cherchez la paire de chaussures de randonneée idéale? Nos spécialistes produits se feront un plaisir de vous donner des conseils détaillés.
+
+[ + ] Fixez votre rendez-vous :
+https://www.asadventure.lu/fr/personal-shopping.html
+
+++++++++++++++ Fashion ++++++++++++++
+——————————————
+Obtenir un conseil
+——————————————
+
+Vous cherchez une nouvelle tenue de mode ? Nos conseillers de mode sont à votre service et sélectionnent les bonnes silhouettes en fonction de vos préférences.
+
+[ + ] Fixez votre rendez-vous :
+https://www.asadventure.lu/fr/personal-shopping.html
+
+++++++++++++++ Outdoor ++++++++++++++
+——————————————
+Obtenir un conseil
+——————————————
+
+Les meilleures aventures en plein air sont vécues avec le meilleur équipement. Mais qu'est-ce qui est le mieux pour vous ? Nos spécialistes produits se feront un plaisir de vous donner des conseils détaillés.
+
+[ + ] Fixez votre rendez-vous :
+https://www.asadventure.lu/fr/personal-shopping.html
+
+++++++++++++++ Algemeen ++++++++++++++
+——————————————
+Obtenir un conseil
+——————————————
+
+Pour vous aider à trouver le bon cadeau ou les chaussures de randonnée parfaites, notre équipe continue à vous faire part de ses conseils.
+
+[ + ] Fixez votre rendez-vous :
+https://www.asadventure.lu/fr/personal-shopping.html
+
+<%@ include view='rc_be_marketing_footernew_lux' %>
