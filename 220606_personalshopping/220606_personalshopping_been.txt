@@ -1,0 +1,48 @@
+View in browser:
+<%@ include view='rc_be_asadventure_personalization_mirror_page' %>
+
+++++++++++++++
+A.S.Adventure
+++++++++++++++
+
+++++++++++++++ Wandelen ++++++++++++++
+——————————————
+Get advise
+——————————————
+
+Looking for the perfect pair of hiking boots? Our product specialists love to give you tons of advice.
+
+[ + ] Schedule your appointment:
+https://www.asadventure.com/en/personal-shopping.html
+
+++++++++++++++ Fashion ++++++++++++++
+——————————————
+Get advise
+——————————————
+
+Searching for a new fashion outfit? Our fashion consultants are at your service and select the right silhouettes based on your preferences.
+
+[ + ] Schedule your appointment:
+https://www.asadventure.com/en/personal-shopping.html
+
+++++++++++++++ Outdoor ++++++++++++++
+——————————————
+Get advise
+——————————————
+
+The best outdoor adventures are experienced with the best equipment. But what is best for you? Our product specialists will be happy to give you detailed advice.
+
+[ + ] Schedule your appointment:
+https://www.asadventure.com/en/personal-shopping.html
+
+++++++++++++++ Algemeen ++++++++++++++
+——————————————
+Get advise
+——————————————
+
+From searching the right gift to the ideal hiking boots, our team will be happy to give you product advice.
+
+[ + ] Schedule your appointment:
+https://www.asadventure.com/en/personal-shopping.html
+
+<%@ include view='rc_be_marketing_footernew_been' %>
